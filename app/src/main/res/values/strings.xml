@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TodoBienInfoApp</string>
+    <string name="businessname">Todo Bien Wellness Center</string>
+    <string name="phonenumber">206-949-4197</string>
+    <string name="address">5417 Meridian Ave N, Seattle, WA 98103</string>
+    <string name="url">www.todobienwellness.com</string>
+    <string name="services">Massage * Pilates * Personal Training</string>
+</resources>
